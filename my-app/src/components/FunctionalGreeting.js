@@ -6,5 +6,5 @@ import React from "react";
 //}:
 
 //L: arrow function below:
-const FunctionalGreeting = () => <h1>Hello from React!</h1>;
+const FunctionalGreeting = () => <h1>Hello, from React!</h1>;
 export default FunctionalGreeting;
